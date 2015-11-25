@@ -1,1 +1,1 @@
-# lab11
+# cc-lab11-aws-sqs
